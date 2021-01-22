@@ -12,5 +12,5 @@ We publish this code to facilitate the optimization of other keyboard layouts an
 The jupyter notebook <a href="Introduction to the codebase.ipynb">Introduction to the code base.ipynb</a> introduces the available methods and explains how to customize it for your own character set or language. 
 
 System requirements: 
-Python 3 with packages numpy, matplotlib, pandas, codecs, os, unicodedata, jupyter
-<a href="https://www.gurobi.com/documentation/9.1/quickstart_mac/cs_python_installation_opt.html"> Gurobi solver with gurobipy</a>
+- Python 3 with packages numpy, matplotlib, pandas, codecs, os, unicodedata, jupyter
+- <a href="https://www.gurobi.com/documentation/9.1/quickstart_mac/cs_python_installation_opt.html"> Gurobi solver with gurobipy</a>
