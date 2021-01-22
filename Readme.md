@@ -1,4 +1,4 @@
-# Optimization model and instances to optimize the placement of special characters on the physical keyboard
+# Optimizing the placement of special characters on the physical keyboard
 
 This code and data were used in the design process for developing the new French keyboard standard, <a href="https://normalisation.afnor.org/actualites/faq-clavier-francais/"> published in April 2019 by AFNOR</a>, the French standardization organization.
 
