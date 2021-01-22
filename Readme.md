@@ -8,7 +8,8 @@ Anna Maria Feit, Mathieu Nancel, Maximilian John, Andreas Karrenbauer, Daryl Wei
 
 You are free to use and modify this code. If you do so, please cite the paper above.
 
-We publish this code to facilitate the optimization of other keyboard layouts and languages. While it was used for French, you can use it to optimize layouts for any other language, provided that you have the right inpout data (language statistics, character sets, etc.). 
+We publish this code to facilitate the optimization of other keyboard layouts and languages. While it was used for French, you can use it to optimize layouts for any other language, provided that you have the right input data (language statistics, character sets, etc.). 
+
 The jupyter notebook <a href="Introduction to the codebase.ipynb">Introduction to the code base.ipynb</a> introduces the available methods and explains how to customize it for your own character set or language. 
 
 System requirements: 
