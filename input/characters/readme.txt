@@ -1,0 +1,1 @@
+All (sepcial) characters that should be assigned to the keyboard. Each character is in a new line. 

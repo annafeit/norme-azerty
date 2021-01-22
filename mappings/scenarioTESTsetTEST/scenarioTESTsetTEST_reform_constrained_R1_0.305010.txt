@@ -1,0 +1,13 @@
+# E03
+& E01
+( B09
+) B10
+@ E05
+À C01_Alt_Shift
+È D03_Alt_Shift
+É D02_Alt_Shift
+à C01_Alt
+è D03_Alt
+é D02_Alt
+ê C03_Alt
+ˋd D01_Alt

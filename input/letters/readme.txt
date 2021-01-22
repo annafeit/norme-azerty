@@ -1,0 +1,1 @@
+All regular letters which should not be assigned to the keyboard
