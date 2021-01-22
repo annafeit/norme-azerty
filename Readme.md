@@ -13,4 +13,4 @@ The jupyter notebook "Introduction to the code base.ipynb" introduces the availa
 
 System requirements: 
 Python 3 with packages numpy, matplotlib, pandas, codecs, os, unicodedata, jupyter
-<a href="https://www.gurobi.com/documentation/9.1/quickstart_mac/cs_python_installation_opt.html> Gurobi solver with gurobipy</a>
+<a href="https://www.gurobi.com/documentation/9.1/quickstart_mac/cs_python_installation_opt.html"> Gurobi solver with gurobipy</a>
